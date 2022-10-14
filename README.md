@@ -8,6 +8,8 @@ Web developer
 * 🧠  I'm learning blockchain
 * 🤝  I'm open to collaborating on MERN stack
 
+[![@binto's Holopin board](https://holopin.me/binto)](https://holopin.io/@binto)
+
 ### Skills
 
 
